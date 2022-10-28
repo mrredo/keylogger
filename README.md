@@ -1,2 +1,2 @@
-# keylogger-eklase
-keylogger for gettings password in e-klase.lv
+# keylogger
+keylogger for getting data
